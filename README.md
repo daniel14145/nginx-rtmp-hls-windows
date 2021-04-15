@@ -20,7 +20,7 @@ Example: http://127.0.0.1/hls/boo.m3u8
 
 ### Installation
 
-1. Download the file "nginxgraphyon.zip" to your computer.
+1. Download the file `nginxgraphyon.zip` to your computer.
 2. Extract `nginxgraphyon.zip`.
 3. Open the file `C:\Users\**[Your_Nick]**\Downloads\nginxgraphyon\conf\nginx.conf`.
 4. Replace this setting `hls_path "C:/Users/**mohan**/Downloads/nginxgraphyon/www/hls/";` on `hls_path "C:/Users/**[Your_Nick]**/Downloads/nginxgraphyon/html/hls/";`.
